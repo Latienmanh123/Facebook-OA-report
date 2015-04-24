@@ -1,0 +1,5 @@
+# Facebook OA / AI2 – Week 2 (February 4 – February 11)
+
+I arrived in Singapore Wednesday 1am. The next few days were spent getting up to speed and catching up with lectures, tutorial classes, TAing and homework. Just to familiarize myself with Git, this week was spent testing out the Git workflow learnt at Open Academy, and utilizing it on mock projects.
+
+I spent the week covering the various documents and workshops we went through at Open Academy, just to make sure I fully understood the development process of working on AI2. The week was spent keeping in mind how to best integrate the Phaser development into the environment. I was perplexed how to multiplex Blockly blocks, which were targeted for code generation into scheme, into Javascript when a Phaser block was detected. I was thinking of using labels, that could be picked up by Java App Inventor framework. However, that is something very sketchy at this point in time and needs much more development.
