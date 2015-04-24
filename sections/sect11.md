@@ -43,6 +43,7 @@ Also coded this week is the ability to increase world size, and also the ability
 A small game using the code blocks was written to test the functionality of the game. In this game, rocks fall down from the sky. It is the user's duty to clear the rocks by tapping on the screen, causing them to explode. Bullets in the direction of the user's tap fall from the sky, and are influenced by gravity. The game in action:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/4HriQzQxUFs" frameborder="0" allowfullscreen></iframe> 
+
 Here is the program. It also uses another external component, the Timer compoent. The inspiration is that users will mix and match components / sensors in future, to create something interesting! (Proximity?)
 
 ![code][2]

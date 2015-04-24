@@ -3,7 +3,6 @@
 
 This is the summary of my book.
 
-* [Introduction](sections/intro.md)
 * [Weekly Logs]()
 	* [week 1](sections/sect1.md)
 	* [week 2](sections/sect2.md)
@@ -18,3 +17,7 @@ This is the summary of my book.
 	* [week 11](sections/sect11.md)
 	* [week 12](sections/sect12.md)
 * [Summary](sections/summary.md)
+* [Acknowledgments](sections/acknowledgements.md)
+* [Appendices]()
+	* [Appendix A: Working spec](sections/appendixA.md)
+	* [Appendix B: SimplePhaser API](sections/appendixB.md)
