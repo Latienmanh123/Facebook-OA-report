@@ -18,7 +18,7 @@ If you are at NUS, Facebook Open Academy (listed under CP3101A Global Open Sourc
 *   Week 9: http://joeltong.org/blog/?p=253
 *   Week 10: http://joeltong.org/blog/?p=250
 *   Week 11: http://joeltong.org/blog/?p=245
-*   Week 12: To upload
+*   Week 12: http://joeltong.org/blog/?p=298
 
 ## Summary
 
